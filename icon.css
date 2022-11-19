@@ -62,7 +62,7 @@
 
 .icon :nth-of-type(2) i {
     position: absolute;
-    /* opacity: 1; */
+    opacity: 1;
     /* left: 0px; */
     top: 5px;
     right: 15px;
